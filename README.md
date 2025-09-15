@@ -1,5 +1,4 @@
 ## Hi :^)
 
-I do lot of things on the cloud and w/ private data so this sees less activity :^( <br>
-Instead, here's food that I've cooked:
-<img src="food.jpeg" alt="drawing" width="100"/>
+I do lot of things on the cloud and w/ private data. Instead of that, here's cool food I've made: <br>
+<img src="food.jpeg" alt="drawing" width="200"/>
